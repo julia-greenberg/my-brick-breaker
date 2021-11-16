@@ -1,0 +1,21 @@
+Welcome to my Brick Breaker game!
+Please make sure your settings are set to Full HD, thanks!
+
+Objects on screen:
+
+- PLAYER: the blue platform towards the bottom of the screen is the player. The player moves by following the mouse (controls), but does not go off the screen (will stop on either edge of the screen). The player paddle only moves left and right (horizontally, not vertically). The ball rebounds off the player paddle, and each time it rebounds off of the paddle a sound is played.
+
+- BALL: the yellow circle on top of the player paddle is the ball. The ball follows the platform until it has been launched by the player. The ball is launched by clicking the mouse. The ball then bounces/rebounds off the walls, paddles, and bricks. When the ball hits a brick, it either partially destroys it or fully destroys it (depending on how many times the brick has been hit previously). If the ball falls past the player, the player loses a life, a sound is played, and the ball resets to on top of the paddle, waiting to be launched again.
+
+- BRICKS: the purple rectangles in the center of the screen are the bricks. If bricks are hit once by the ball, the brick will appear half broken. If the brick is hit twice, the ball has destroyed it and it will disappear. When a brick is hit (regardless if the first or second time), 10 points is added to the score. A sound will be played each time a brick is hit.
+
+- SCORE KEEPER: the top left of the screen is where the player can see their score, which is indicative of how much damage they have inflicted on the bricks so far (+10 each time a brick is hit by the ball).
+
+- LIVES TRACKER: the top right of the screen is where the player can see how many lives they have left. The player starts with 3, and loses one each time the ball falls past the player paddle. If the player loses all three lives, the scene/game completely resets.
+
+- the player can reset the game scene/level by pressing the ENTER key
+
+Win condition: the player has destroyed all bricks before losing all of their lives - the score keeper message will change to "You Win!" and a fun sound will be played!
+
+Lose condition: the player has lost all of their lives before destroying all of the bricks. The player has three lives total, one is lost each time the ball falls past the player's paddle (accompanied by a sound). 
+

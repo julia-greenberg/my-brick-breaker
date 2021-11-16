@@ -1,0 +1,14 @@
+Background image:
+https://opengameart.org/content/sci-fi-background
+
+Player paddle:
+https://opengameart.org/content/sci-fi-blue-pillar - note: no changes were made
+
+Ball:
+https://opengameart.org/content/2d-object-pack - note: no changes were made
+
+Bricks:
+https://opengameart.org/content/breakout-brick-breaker-tile-set-free
+
+All audio noises (paddle hit, brick hit, win, lost ball):
+https://mixkit.co/free-sound-effects/game/
